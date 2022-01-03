@@ -1,0 +1,39 @@
+img{
+    height: 9rem;
+}
+body{
+    background-color: #406882;
+    margin: 0%;
+}
+
+.container{
+    margin-top: 9%;
+    
+}
+.details{
+    border-radius: 10px;
+    box-shadow: 60px -16px #6998AB;
+    background-color: whitesmoke;
+    padding: 10%;
+    text-align: center;
+}
+
+h1,h2,p{
+    margin: 1rem; ;
+    
+    color: #1A374D;
+}
+
+
+.navbar{
+    justify-content: space-around;
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+}
+button{margin: auto 0;
+    background-color: orange;
+}
